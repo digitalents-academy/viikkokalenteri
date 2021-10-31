@@ -1,6 +1,17 @@
 # 📅
 ## Viikkokalenteri - Full-stack projekti
 ### ✨ Tiivistelmä
+Viikkokalenteri projekti on viikkonäkymä kuluvasta työviikosta, näyttäen kellonajan päivänäkymässä. Projekti toteutetaan REST API arkkitehtuurityyliä seuraten. 
+Projektissa pitää pystyä tekemään seuraavat asiat:
+- Lisäämään, poistaa, ja muokata kalenterimerkintöjä
+- Lisätessä kalenterimerkintää, pitää pystyä lisäämään seuraavat tiedot:
+  - Otsikko, kategoria (tapahtuman tieto: esimerkiksi kenen järjestämä tapahtuma), päivämäärä, kellonaika, paikka, lisätietoja
+- Meneillään oleva kellonaika päivämäärästä tulisi näkyä korostettuna
+- Päivän työskentelyaika tulisi näkyä kohotettuna
+  - Esimerkiksi mahdollisuus asettaa että 9-15 olisi aktiivinen alue ja tämän kellonajan ulkopuolella muut kellonajat ei välttämättä näkyisi tai jos näkyisi niin olisivat harmaan värisinä
+  - Kellonaika aktiiviselle alueelle tulisi pystyä säätäämään
+    - Esimerkiksi työpajalla voisi olla poikkeuspäivä jolloin tarvittaisiin aktiivi alueeksi 10-16 kellonaika väli.
+- Kalenterimerkintä pitäisi pystyä avaamaan ja näkemään lisätiedot sekä merkitsemään omalla nimellä nähneensä sen ja osallistuvan tapahtumaan (ainoastaan osallistuminen, ei muita merkintöjä).
 
 ### 🛠️ Ohjelmointikielet
 
