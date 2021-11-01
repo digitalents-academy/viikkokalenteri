@@ -69,7 +69,7 @@ Seuraavat repot projektin käytössä:
     - Käyttötapauksia poimia asiakkaan tiivistelmästä
     - Monta API-endpointtia tarvitaan
     - Monta eri versiota pitää iteroida että saadaan MVP valmiiksi (https://en.wikipedia.org/wiki/Minimum_viable_product)
-    - Google docs (lisätkää linkki tänne)
+    - [Google Docs](https://docs.google.com/document/d/1DvK3TIctCRkCBirXf3iipj8yivsy0L3UI9bqZ7ChW44/edit?usp=sharing)
     - Muuta huomioitavaa 
 
 ### 🥅 Tavoitteet (1.11. - 5.11.)
