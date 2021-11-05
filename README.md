@@ -83,3 +83,15 @@ Seuraavat repot projektin käytössä:
   - Perjantai palaverin järjestys
     - Puheenjohtaja: Niklas
     - Sihteeri: Aki
+
+- Back-end
+    - Tietokannan luominen (esim. omille koneille paikallisesti, jotta voi testailla turvallisesti)
+        - MongoDB tunnusten luominen (Niklas)
+        - Interfacen luominen tietokannan kanssa vuorovaikuttamiseen (Niklas) -> Tälle oma branch
+        - Collection -objekti, joka pitäisi sisällään työpäivät:
+            - Kalenteri merkinnät yms.    
+    - API endpointtien "skeletonien" rakentaminen (Aki) -> Tällä oma branch
+
+- Front-end / UI
+    - Toiminnallisuuden suunnitteleminen ja/tai toteuttaminen
+        - Kalenterimerkintöjen kanssa vuorovaikuttaminen (merkintöjen lisääminen, avaaminen yms.)
