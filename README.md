@@ -95,3 +95,22 @@ Seuraavat repot projektin käytössä:
 - Front-end / UI
     - Toiminnallisuuden suunnitteleminen ja/tai toteuttaminen
         - Kalenterimerkintöjen kanssa vuorovaikuttaminen (merkintöjen lisääminen, avaaminen yms.)
+
+### 🥅 Tavoitteet (15.11. - 19.11.)
+- Yleistä
+  - Puheenjohtaja: Aki
+  - Sihteeri: Jouni
+
+- Back-end
+   - Kalenterimerkinnän lisäämis-endpointin toiminallisuuden toteuttaminen
+   - Tietokannan käyttöliittymän metodien toetuttaminen
+      - Kalenterimerkinnän muokkaus
+      - Kalenterimerkinnän haku
+      - Kalenterimerkinnän poistaminen
+   - Jos ehtii, niin muiden endpointtien toiminallisuuden toteuttaminen
+
+- Front-end / UI
+  - UI
+    - Tämänhetkinen aika- indikaattorin suunnittelu
+  - Front-end
+    - Layoutin toteutus HTML ja CSS:llä
