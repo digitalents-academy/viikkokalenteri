@@ -33,7 +33,7 @@ Projektissa pitää pystyä tekemään seuraavat asiat:
 ### 👨‍🎤 Tiimin kokoonpano
 | Nimi        | Rooli       | Ryhmä       |
 | ----------- | ----------- | ----------- |
-| [Jouni Heikkinen](https://github.com/heikjou)    | UI-suunnittelija & Frontend (HTML & CSS)     | 🟢     |
+| [Jouni Heikkinen](https://github.com/heikjou)    | UI-suunnittelija & Frontend (HTML, CSS & Javascript)     | 🟢     |
 | [Aki Sartolahti](https://github.com/donqnr)    | Backend devaaja (Python, Flask, Mongodb)     | 🟦     |
 | [Niklas Larsson](https://github.com/nikkelarsson)    | Backend devaaja (Python, Flask, Mongodb)     | 🟦     |
 | [Sanjiv Rana](https://github.com/eync)   | Opettaja / Projektin asiakas       | 🟢  🟦      |
@@ -114,3 +114,27 @@ Seuraavat repot projektin käytössä:
     - Tämänhetkinen aika- indikaattorin suunnittelu
   - Front-end
     - Layoutin toteutus HTML ja CSS:llä
+  
+
+### 🥅 Tavoitteet (22.11. - 26.11.)
+- Yleistä
+  - Puheenjohtaja: Jouni
+  - Sihteeri: Niklas
+
+- Back-end
+   - Kalenterimerkinnän lisäämis-endpointin toiminallisuuden toteuttaminen jatkuu
+   - Tietokannan käyttöliittymän metodien toetuttaminen jatkuu
+      - Kalenterimerkinnän muokkaus
+      - Kalenterimerkinnän haku
+      - Kalenterimerkinnän poistaminen
+   - Jos ehtii, niin muiden endpointtien toiminallisuuden toteuttaminen
+   - Tietokannan rakenne backendin readme tiedostoon json muodossa tyyppien kanssa
+   - Kanban-taulukon läpikäynti maanantaina
+   - Niklas ajaa Akin sisään omiin koodeihinsa
+   - Mahdollinen Niklaksen branchin pull requestin tekeminen
+
+- Front-end
+  - UI
+    - Kalenterimerkintöjen hallinta suunnittelu
+  - Front-end
+    - Layoutin toteutus HTML, CSS ja Javascriptillä jatkuu
