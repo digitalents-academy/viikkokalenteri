@@ -33,10 +33,14 @@ Projektissa pitää pystyä tekemään seuraavat asiat:
 ### 👨‍🎤 Tiimin kokoonpano
 | Nimi        | Rooli       | Ryhmä       |
 | ----------- | ----------- | ----------- |
-| [Jouni Heikkinen](https://github.com/heikjou)    | UI-suunnittelija & Frontend (HTML, CSS & Javascript)     | 🟢     |
 | [Aki Sartolahti](https://github.com/donqnr)    | Backend devaaja (Python, Flask, Mongodb)     | 🟦     |
-| [Niklas Larsson](https://github.com/nikkelarsson)    | Backend devaaja (Python, Flask, Mongodb)     | 🟦     |
+| [Boris Hiltunen](https://github.com/BorisHiltunen)   | Backend devaaja (Python, Flask)       | 🟦      |
 | [Sanjiv Rana](https://github.com/eync)   | Opettaja / Projektin asiakas       | 🟢  🟦      |
+#### :necktie: Tiimin entiset jäsenet
+| Nimi        | Rooli       | Ryhmä       |
+| ----------- | ----------- | ----------- |
+| [Niklas Larsson](https://github.com/nikkelarsson)    | Backend devaaja (Python, Flask, Mongodb)     | 🟦     |
+| [Jouni Heikkinen](https://github.com/heikjou)    | UI-suunnittelija & Frontend (HTML, CSS & Javascript)     | 🟢     |
 
 ### 🚧  Projektinhallinta
 Päivittäinen palaveri erikseen ryhmittäin:  
