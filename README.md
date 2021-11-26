@@ -138,3 +138,12 @@ Seuraavat repot projektin käytössä:
     - Kalenterimerkintöjen hallinta suunnittelu
   - Front-end
     - Layoutin toteutus HTML, CSS ja Javascriptillä jatkuu
+
+### 🥅 Tavoitteet tulevaisuudelle
+- Yleistä
+  - Front-end jää tauolle toistaiseksi (26.11.2021 ->)
+  - Aki jatkaa siitä, mihin **niklas/feature/add_database_interface** -branchin työstö jäi
+    - Niklas tekee pull-requestin edellämainitusta branchista main -branchiin
+    - Aki tarkistaa pull-requestin ja mergeää tämän main -branchiin
+    - **niklas/feature/add_database_interface** -branch voidaan poistaa ja Aki voi luoda uuden branchin ja jatkaa työstöä siinä
+  - Backendin readme:hin tekijöiden nimet (esim readme:n loppuun) ja linkit tekijöiden profiileihin näistä nimistä
