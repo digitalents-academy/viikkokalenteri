@@ -126,21 +126,21 @@ Seuraavat repot projektin käytössä:
   - Sihteeri: Niklas
 
 - Back-end
-   - Kalenterimerkinnän lisäämis-endpointin toiminallisuuden toteuttaminen jatkuu
-   - Tietokannan käyttöliittymän metodien toetuttaminen jatkuu
+   - 🔄 Kalenterimerkinnän lisäämis-endpointin toiminallisuuden toteuttaminen jatkuu
+   - 🔄 Tietokannan käyttöliittymän metodien toetuttaminen jatkuu
       - Kalenterimerkinnän muokkaus
       - Kalenterimerkinnän haku
       - Kalenterimerkinnän poistaminen
-   - Jos ehtii, niin muiden endpointtien toiminallisuuden toteuttaminen
-   - Tietokannan rakenne backendin readme tiedostoon json muodossa tyyppien kanssa
-   - Kanban-taulukon läpikäynti maanantaina
-   - Niklas ajaa Akin sisään omiin koodeihinsa
-   - Mahdollinen Niklaksen branchin pull requestin tekeminen
+   - 🔄 Jos ehtii, niin muiden endpointtien toiminallisuuden toteuttaminen
+   - ✅ Tietokannan rakenne backendin readme tiedostoon json muodossa tyyppien kanssa
+   - ✅ Kanban-taulukon läpikäynti maanantaina
+   - ✅ Niklas ajaa Akin sisään omiin koodeihinsa
+   - ✅ Mahdollinen Niklaksen branchin pull requestin tekeminen
 
 - Front-end
-  - UI
+  - ✅ UI
     - Kalenterimerkintöjen hallinta suunnittelu
-  - Front-end
+  - ✅ Front-end
     - Layoutin toteutus HTML, CSS ja Javascriptillä jatkuu
 
 ### 🥅 Tavoitteet tulevaisuudelle
