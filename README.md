@@ -152,12 +152,28 @@ Seuraavat repot projektin käytössä:
     - 🔄 **niklas/feature/add_database_interface** -branch voidaan poistaa ja Aki voi luoda uuden branchin ja jatkaa työstöä siinä
   - ✅ Backendin readme:hin tekijöiden nimet (esim readme:n loppuun) ja linkit tekijöiden profiileihin näistä nimistä
 
-
-
 ### 🥅 Tavoitteet (7.12. - 10.12.)
 - Yleistä
   - Puheenjohtaja: Aki 
   - Sihteeri: Boris
+
+- Back-end
+   - 🔄Kalenterimerkinnän lisäämis-endpointin toiminallisuuden toteuttaminen jatkuu
+     - �Interface -> Datasettiä muutetaan niin että "Entries" muuttuu "Array Objektiksi" jolloin voidaan hyödyntää `$push` operaattoria. 
+     - �https://docs.mongodb.com/manual/reference/operator/update/push/#examples
+   - 🔄Tietokannan käyttöliittymän metodien toteuttaminen jatkuu
+      - Kalenterimerkinnän muokkaus
+      - Kalenterimerkinnän haku
+      - Kalenterimerkinnän poistaminen
+   - 🔄Jos ehtii, niin muiden endpointtien toiminallisuuden toteuttaminen
+   - 🔄Tietokannan rakenne backendin readme tiedostoon json muodossa tyyppien kanssa
+     - Lisätään uudet muutokset 
+   - 🔄Kanban-taulukon läpikäynti maanantaina
+
+### 🥅 Tavoitteet (13.12. - 17.12.)
+- Yleistä
+  - Puheenjohtaja: Boris
+  - Sihteeri: Aki
 
 - Back-end
    - Kalenterimerkinnän lisäämis-endpointin toiminallisuuden toteuttaminen jatkuu
@@ -171,4 +187,6 @@ Seuraavat repot projektin käytössä:
    - Tietokannan rakenne backendin readme tiedostoon json muodossa tyyppien kanssa
      - Lisätään uudet muutokset 
    - Kanban-taulukon läpikäynti maanantaina
+   - Tietokanta ongelman ratkaiseminen
+     - set -> push
 
