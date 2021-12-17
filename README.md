@@ -176,6 +176,26 @@ Seuraavat repot projektin käytössä:
   - Sihteeri: Aki
 
 - Back-end
+   - 🔄Kalenterimerkinnän lisäämis-endpointin toiminallisuuden toteuttaminen jatkuu
+     - Interface -> Datasettiä muutetaan niin että "Entries" muuttuu "Array Objektiksi" jolloin voidaan hyödyntää `$push` operaattoria. 
+     - https://docs.mongodb.com/manual/reference/operator/update/push/#examples
+   - 🔄Tietokannan käyttöliittymän metodien toteuttaminen jatkuu
+      - Kalenterimerkinnän muokkaus
+      - Kalenterimerkinnän haku
+      - Kalenterimerkinnän poistaminen
+   - 🔄Jos ehtii, niin muiden endpointtien toiminallisuuden toteuttaminen
+   - 🔄Tietokannan rakenne backendin readme tiedostoon json muodossa tyyppien kanssa
+     - Lisätään uudet muutokset 
+   - 🔄Kanban-taulukon läpikäynti maanantaina
+   - 🔄Tietokanta ongelman ratkaiseminen
+     - set -> push
+
+### 🥅 Tavoitteet (20.12. - 24.12.)
+- Yleistä
+  - Puheenjohtaja: Boris
+  - Sihteeri: Aki
+
+- Back-end
    - Kalenterimerkinnän lisäämis-endpointin toiminallisuuden toteuttaminen jatkuu
      - Interface -> Datasettiä muutetaan niin että "Entries" muuttuu "Array Objektiksi" jolloin voidaan hyödyntää `$push` operaattoria. 
      - https://docs.mongodb.com/manual/reference/operator/update/push/#examples
@@ -188,5 +208,6 @@ Seuraavat repot projektin käytössä:
      - Lisätään uudet muutokset 
    - Kanban-taulukon läpikäynti maanantaina
    - Tietokanta ongelman ratkaiseminen
-     - set -> push
-
+     - set -> push?
+     - set -> insert?
+     - Miksi data "katoaa"?
